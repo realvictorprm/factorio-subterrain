@@ -246,7 +246,7 @@ function subterrainOnMine(event)
 	local entity = event.entity
 	local eName = entity.name
 	local otherEntity = entity.neighbours or false
-	
+
 	if not otherEntity then
 		-- game.print("The underground belt has no neighbour!")
 		return
