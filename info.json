@@ -3,7 +3,7 @@
     "version": "0.5.6",
     "title": "RealVictorPRM's Subterranean",
     "author": "Gangsir, Bilka, RealVictorPRM",
-    "homepage": "https://forums.factorio.com/55740",
+    "homepage": "https://github.com/realvictorprm/factorio-subterrain/tree/master",
     "factorio_version": "0.17",
     "dependencies": [
         "base >= 0.17",
